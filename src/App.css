@@ -1,3 +1,9 @@
+body{
+  background: #010405;
+}
+h3{
+  color: #fff;
+}
 .App {
   text-align: center;
 }
